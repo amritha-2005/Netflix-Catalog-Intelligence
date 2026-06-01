@@ -1,5 +1,5 @@
 ## 🌐 Live Visual Report
-👉 [Click here to view the full interactive dashboard](https://amritha-2005.github.io/Netflix-Catalog-Intelligence/)
+👉🏼 [Click here to view the full interactive dashboard](https://amritha-2005.github.io/Netflix-Catalog-Intelligence/)
 # 🎬 Netflix Catalog Intelligence & Audience Segmentation Matrix
 
 > A multi-dimensional analysis of Netflix catalog composition across format, runtime, quality rating, demographic classification, and genre distribution.
