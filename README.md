@@ -64,22 +64,8 @@ This analysis provides a structured overview of catalog composition across forma
 
 ---
 
-*Analysis scope: Global catalog · 2000–2023 · IMDb-rated*
+*Analysis scope: Global catalog (as of July 2022) · IMDb-rated ·*
 *Made with Python & Jupyter Notebook*
 
-```
-
------
-
-```
-
------
-
-## 📋 Dataset
-
-- **Netflix Titles Dataset** — catalog metadata including title, type, genre, rating, and release year
-- **IMDb Ratings** — audience scores used for quality trend analysis
-
------
 
 *Analysis scope: Global catalog · 2000–2023 · IMDb-rated*
