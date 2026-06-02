@@ -64,8 +64,6 @@ This analysis provides a structured overview of catalog composition across forma
 
 ---
 
-*Analysis scope: Global catalog (as of July 2022) · IMDb-rated ·*
-*Made with Python & Jupyter Notebook*
-
 
 *Analysis scope: Global catalog · 2000–2023 · IMDb-rated*
+*Made with Python & Jupyter Notebook*
